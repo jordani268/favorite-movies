@@ -8,6 +8,5 @@ while len(favmovlist) < 5:
     num += 1 
     if len(favmovlist) == 4:
         break
-
-print(favmovlist)
+        
 print(f"Your favorite movies are {favmovlist[0]}, {favmovlist[1]}, {favmovlist[2]}, and {favmovlist[3]}.")
